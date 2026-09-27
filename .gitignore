@@ -1,0 +1,12 @@
+# Build output (built locally by build.bat, not checked in)
+AutoMute.exe
+*.obj
+*.pdb
+
+# User settings (portable ini created next to the exe at runtime)
+AutoMute.ini
+
+# OS/editor cruft
+Thumbs.db
+.vs/
+*.user
